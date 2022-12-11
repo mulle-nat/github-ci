@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/sh -x
 
 OTHER_PROJECTS="${OTHER_PROJECTS}
 mulle-sde/mulle-test;"
